@@ -8,4 +8,5 @@ import{ContactRouteModule} from './contact-routing.module';
 })
 
 export class ContactModule{
+
 }
